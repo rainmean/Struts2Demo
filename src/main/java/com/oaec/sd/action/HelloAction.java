@@ -6,7 +6,7 @@ public class HelloAction extends ActionSupport {
 
     public String hello(){
         System.out.println("你好，Struts2Demo!");
-        System.out.println(222222222);
+        System.out.println(111111111);
         return ERROR;
     }
 
