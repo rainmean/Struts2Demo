@@ -8,7 +8,7 @@ import com.opensymphony.xwork2.ActionSupport;
 import java.util.List;
 
 /**
- * 增删改查例子
+ * 用户增删改查例子
  */
 public class CRUDAction extends ActionSupport {
 
