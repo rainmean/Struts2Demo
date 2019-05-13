@@ -5,7 +5,7 @@ import com.opensymphony.xwork2.ActionSupport;
 public class HelloAction extends ActionSupport {
 
     public String hello(){
-        System.out.println("你好，Struts2Demo3!");
+        System.out.println("你好，Struts2Demo!");
         return ERROR;
     }
 
